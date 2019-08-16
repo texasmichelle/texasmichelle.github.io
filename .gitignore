@@ -1,0 +1,6 @@
+# Mac temp files
+.DS_Store
+
+# Jekyll build files
+_site/
+
