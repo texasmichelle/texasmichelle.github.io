@@ -3,4 +3,10 @@
 
 # Jekyll build files
 _site/
+.jekyll-metadata
+
+# Ruby build files
+.bundle/
+Gemfile.lock
+vendor/
 
